@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Teboho
-- 👀 I’m interested Data Analysis/Data Engineering and Software Engineering
+- 👀 I’m interested Data Analysis/Data Science and Software Engineering
